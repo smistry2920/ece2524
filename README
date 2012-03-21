@@ -2,5 +2,7 @@ Hello, it's a README!!
 
 --Project 4: 
 	-used change_grade.py and made it a function 
-		with a main included (well...not yet).
+		with a main included. Inputs are give to main
+		and then sent to function. Then, returns string
+		and number (which are taken from stdin).
 
